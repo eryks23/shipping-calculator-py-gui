@@ -175,12 +175,6 @@ Please keep the project free of external dependencies unless there is a strong j
 
 ---
 
-## License
-
-[DO UZUPEŁNIENIA: Add your license here, e.g. MIT, Apache 2.0] — see [LICENSE](LICENSE) for details.
-
----
-
 ## Author
 
 **eryks23** — [github.com/eryks23](https://github.com/eryks23)
